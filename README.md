@@ -14,10 +14,10 @@
 <table>
   <tr>
     <td>
-      <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pattarapolnn&theme=github_dark" />
+      <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GOLF2546&theme=github_dark" />
     </td>
     <td>
-      <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pattarapolnn&theme=github_dark" /> 
+      <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GOLF2546&theme=github_dark" /> 
     </td>
   </tr>
 </table>
