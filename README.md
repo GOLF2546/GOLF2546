@@ -12,8 +12,8 @@
 - CTF Player
 
 ## 🏆 GitHub Stats
-![Golf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pattarapolnn&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pattarapolnn&layout=compact&theme=tokyonight)
+![Golf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GOLF2546&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GOLF2546&layout=compact&theme=tokyonight)
 
 ## 📫 Contact
 - Email: pattarapolnanakorn@gmail.com
