@@ -11,9 +11,22 @@
 - Programming languages (Python, Java, JavaScript, TypeScript, C++, PHP)
 - CTF Player
 
-## 🏆 GitHub Stats
-![Golf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GOLF2546&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GOLF2546&layout=compact&theme=tokyonight)
+<table>
+  <tr>
+    <td>
+
+<!-- GitHub Stats -->
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pattarapolnn&theme=github_dark" />
+
+    </td>
+    <td>
+
+<!-- Language Stats -->
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pattarapolnn&theme=github_dark" />
+
+    </td>
+  </tr>
+</table>
 
 ## 📫 Contact
 - Email: pattarapolnanakorn@gmail.com
