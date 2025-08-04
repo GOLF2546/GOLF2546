@@ -17,4 +17,4 @@
 
 ## 📫 Contact
 - Email: pattarapolnanakorn@gmail.com
-- LinkedIn: [Pattarapol Na Nakorn]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/pattarapol-na-nakorn/))
+- LinkedIn: [Pattarapol Na Nakorn](https://www.linkedin.com/in/pattarapol-na-nakorn/)
