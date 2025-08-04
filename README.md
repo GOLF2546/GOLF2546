@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Pattarapol (Golf)
++Passionate
+-Enjoy cyber competition.
+-Learn any knowledge in the cyber security and technology field.
+-Interest in Penetration testing, Digital forensics and Incident response included.
 
-<!--
-**GOLF2546/GOLF2546** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
++ My Skills
+- Penetration tester beginner
+- Familiar with Windows and Linux OS, its frameworks, tools, and CLI, Shell prompt 
+- Understand the Network Infrastructure
+- Programming languages (Python, Java, JavaScript, TypeScript, C++, PHP)
+- CTF Player
 
-Here are some ideas to get you started:
+## 🏆 GitHub Stats
+![Golf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pattarapolnn&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pattarapolnn&layout=compact&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- Email: pattarapolnanakorn@gmail.com
+- LinkedIn: [Pattarapol Na Nakorn]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/pattarapol-na-nakorn/))
