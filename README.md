@@ -1,8 +1,8 @@
 # 👋 Pattarapol (Golf)
 +Passionate
 -Enjoy cyber competition.
--Learn any knowledge in the cyber security and technology field.
--Interest in Penetration testing, Digital forensics and Incident response included.
+-Learn any knowledge in the cybersecurity and technology field.
+-Interest in Penetration testing, Digital forensics, and Incident response included.
 
 + My Skills
 - Penetration tester beginner
@@ -14,16 +14,10 @@
 <table>
   <tr>
     <td>
-
-<!-- GitHub Stats -->
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pattarapolnn&theme=github_dark" />
-
+      <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pattarapolnn&theme=github_dark" />
     </td>
     <td>
-
-<!-- Language Stats -->
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pattarapolnn&theme=github_dark" />
-
+      <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pattarapolnn&theme=github_dark" /> 
     </td>
   </tr>
 </table>
