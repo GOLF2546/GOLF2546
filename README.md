@@ -1,4 +1,4 @@
-# 👋 Pattarapol (Golf)
+# 👋 Pattarapol
 
 Cybersecurity Researcher @ [SnoopBees Co., Ltd.](https://www.snoopbees.com)
 
@@ -21,6 +21,21 @@ Cybersecurity Researcher @ [SnoopBees Co., Ltd.](https://www.snoopbees.com)
 - Understanding of network infrastructure
 - Programming: Python, Java, JavaScript, TypeScript, C++, PHP
 - CTF Player
+
+## 📊 GitHub Stats
+<table>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=GOLF2546&show_icons=true&theme=tokyonight" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOLF2546&layout=compact&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
+
+## 🏆 Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=GOLF2546&theme=onedark&column=7" />
 
 ## 📫 Contact
 - Email: pattarapolnanakorn@gmail.com
